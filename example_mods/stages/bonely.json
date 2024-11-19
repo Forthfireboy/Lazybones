@@ -1,0 +1,97 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf-bonely",
+		"dad": "sanz-bonely",
+		"gf": "nothing"
+	},
+	"boyfriend": [
+		770,
+		100
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": 13,
+			"y": -5,
+			"scale": [
+				1.4,
+				1.4
+			],
+			"image": "bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": 13,
+			"y": -2,
+			"scale": [
+				1.4,
+				1.4
+			],
+			"image": "stand",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		100,
+		100
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

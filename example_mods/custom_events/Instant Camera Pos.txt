@@ -1,0 +1,3 @@
+instant turn zoom like voting from impostor v4 !!
+
+type true or false to enable it in value one ( value two is useless )

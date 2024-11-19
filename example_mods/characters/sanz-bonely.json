@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-7, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "sanz idle"
+		},
+		{
+			"offsets": [-9, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sanz left"
+		},
+		{
+			"offsets": [-9, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sanz down"
+		},
+		{
+			"offsets": [-9, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sanz right"
+		},
+		{
+			"offsets": [-8, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sanz up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sanz",
+	"position": [450, 280],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-470,-250],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

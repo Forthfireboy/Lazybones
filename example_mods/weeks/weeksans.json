@@ -1,0 +1,27 @@
+{
+	"storyName": "Sans undertale is here",
+	"difficulties": "Boned, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"lazybones",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

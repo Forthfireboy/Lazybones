@@ -1,0 +1,5 @@
+value 1: TIME - mark this, in seconds, how fast
+should the hud should disappear / reappear.
+
+value 2:  TYPE - mark this with either 'on' / 'off'
+if you want the hud to disappear / reappear.

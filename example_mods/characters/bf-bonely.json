@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-7, -5],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bfz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-9, -5],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bfz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-9, -5],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bfz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-8, -5],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bfz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-9, -5],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bfz right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfz",
+	"position": [-420, 230],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [118, 158, 232],
+	"camera_position": [0, -120],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

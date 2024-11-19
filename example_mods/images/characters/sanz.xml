@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sanz.png">
+	
+	
+	<SubTexture name="sanz idle0000" x="457" y="0" width="228" height="196" frameX="-329" frameY="-51" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0001" x="228" y="601" width="227" height="193" frameX="-329" frameY="-54" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0002" x="685" y="0" width="225" height="197" frameX="-330" frameY="-50" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0003" x="233" y="200" width="220" height="198" frameX="-333" frameY="-49" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0004" x="0" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0005" x="0" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0006" x="0" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz idle0007" x="0" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0000" x="0" y="601" width="228" height="194" frameX="-329" frameY="-53" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0001" x="457" y="196" width="227" height="196" frameX="-329" frameY="-51" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0002" x="442" y="398" width="225" height="197" frameX="-330" frameY="-50" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0003" x="220" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0004" x="220" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz down0005" x="220" y="795" width="220" height="199" frameX="-333" frameY="-48" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz right0000" x="0" y="0" width="233" height="197" frameX="-333" frameY="-50" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz right0001" x="233" y="0" width="224" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz right0002" x="685" y="197" width="220" height="201" frameX="-333" frameY="-46" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz right0003" x="911" y="401" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz right0004" x="911" y="401" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz up0000" x="1131" y="202" width="207" height="206" frameX="-339" frameY="-41" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz up0001" x="1131" y="0" width="216" height="202" frameX="-335" frameY="-45" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz up0002" x="911" y="0" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz up0003" x="911" y="0" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz up0004" x="911" y="0" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0000" x="0" y="197" width="222" height="201" frameX="-331" frameY="-46" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0001" x="220" y="398" width="222" height="201" frameX="-331" frameY="-46" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0002" x="685" y="398" width="221" height="200" frameX="-332" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0003" x="0" y="398" width="220" height="202" frameX="-333" frameY="-45" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0004" x="911" y="200" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+	<SubTexture name="sanz left0005" x="911" y="200" width="220" height="200" frameX="-333" frameY="-47" frameWidth="640" frameHeight="360" />
+</TextureAtlas>
